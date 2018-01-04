@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ENG - BCS 421 Course Work App 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_menu">ENG - Main Menu</string>
+    <string name="course_work_list">ENG - CourseWork List</string>
+    <string name="add_course_work_item">ENG - Add CourseWork Item</string>
+    <string name="course_work_item">ENG - CourseWork Item</string>
+    <string name="category">ENG - Category</string>
+    <string name="name">ENG - Name</string>
+    <string name="grade">ENG - Grade</string>
+    <string name="zero_percent">0%</string>
+    <string name="failing">F</string>
+    <string name="clear">ENG - Clear All Course Work</string>
+    <string name="drop_exam">ENG - Drop Exam Grade</string>
+    <string name="drop_homework">ENG - Drop Homework Grade</string>
+    <string name="drop_quiz">ENG - Drop Quiz Grade</string>
+    <string name="drop_lab">ENG - Drop Lab Grade</string>
+    <string name="drop_exam_description">ENG - Drops the lowest grade in the exam category.</string>
+    <string name="drop_homework_description">ENG - Drops the lowest grade in the homework category.</string>
+    <string name="drop_quiz_description">ENG - Drops the lowest grade in the quiz category.</string>
+    <string name="drop_lab_description">ENG - Drops the lowest grade in the lab category.</string>
+    <string name="overall_numeric_grade">ENG - Overall Numeric Grade</string>
+    <string name="overall_letter_grade">ENG - Overall Letter Grade</string>
+</resources>

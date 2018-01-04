@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="drop_lowest_exam"
+        android:title="@string/drop_exam"
+        android:summary="@string/drop_exam_description"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="drop_lowest_homework"
+        android:title="@string/drop_homework"
+        android:summary="@string/drop_homework_description"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="drop_lowest_quiz"
+        android:title="@string/drop_quiz"
+        android:summary="@string/drop_quiz_description"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="drop_lowest_lab"
+        android:title="@string/drop_lab"
+        android:summary="@string/drop_lab_description"
+        android:defaultValue="false" />
+</PreferenceScreen>
